@@ -95,20 +95,6 @@ Number of units of Product A to produce
 Number of units of Product B to produce
 
 Maximum achievable profit
-
-
-Sample Output:
-
---- Production Optimization - Friend Version ---
-Total Status: Optimal
-Produce Product A: 50.0 units
-Produce Product B: 75.0 units
-Max Profit (₹): 6000.0
-
-
-
-
-
 ---
 
  Conclusion:
